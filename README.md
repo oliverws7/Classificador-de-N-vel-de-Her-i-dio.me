@@ -37,5 +37,5 @@ Um aplicativo web interativo que classifica o nível de um herói com base em su
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/classificador-heroi.git
+   git clone https://github.com/oliverws7/classificador-heroi.git
 <div align="center"> <p>Feito com ❤️ por Mateus Nunes</p> <a href="https://github.com/oliverws7"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> </div> ```
